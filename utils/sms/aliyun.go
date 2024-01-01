@@ -13,7 +13,7 @@ import (
 	"fmt"
 
 	"github.com/aliyun/alibaba-cloud-sdk-go/services/dysmsapi"
-	"github.com/amorist/douyin-cps/common/utils/password"
+	"github.com/amorist/common/utils/password"
 )
 
 const (

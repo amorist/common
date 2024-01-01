@@ -3,7 +3,7 @@ package resultx
 import (
 	"context"
 
-	"github.com/amorist/douyin-cps/common/errcode"
+	"github.com/amorist/common/errcode"
 )
 
 const (
